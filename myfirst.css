@@ -1,0 +1,16 @@
+body{
+	background-image: url("https://images.pexels.com/photos/908284/pexels-photo-908284.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940");
+	height: 100%; width: 100%;
+background-size: cover;
+
+
+background-size: 100%;
+background-repeat: no-repeat;
+padding-top:  250px;
+
+
+}
+.startup{font-size: 200%;
+	line-height: 100px;
+font-weight: bold;
+}
